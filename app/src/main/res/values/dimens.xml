@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_12dp">12dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="material_button_height">56dp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="material_button_corner_radius">16dp</dimen>
+</resources>
